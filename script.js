@@ -112,8 +112,6 @@ const textureOptions = {
   Roughness: roughness,
 };
 
-
-
 let canvas;
 
 let scene, camera, renderer;
